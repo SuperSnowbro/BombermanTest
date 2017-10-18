@@ -1,3 +1,5 @@
+# Bomberman Test
+
 This is a challenge taken to make a bomberman game. I started in the afternoon, and proceeded thorough the evening, then made some adjustments in the following morning;
 
 **The whole project was planned and executed in around 8 hours.**
